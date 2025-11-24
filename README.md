@@ -49,7 +49,6 @@ jupyter lab notebook/project-w5.ipynb
 .
 ├── notebook/
 │   ├── project-w5.ipynb    # Main project notebook
-│   └── project.ipynb       # Previous version/Reference
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
 ```
